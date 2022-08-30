@@ -1,16 +1,16 @@
 ---
 showReadTime: true
+toc: true
 title: Lorem Ipsum
 date: 2022-08-30T07:00:23.370Z
 categories:
   - Coba
 tags:
-  - co
+  - coba
 description: "**Lorem Ipsum** is simply dummy text of the printing and
   typesetting industry. Lorem Ipsum has been the industry's standard dummy text
   ever since the 1500s,"
 thumbnail: /images/cover.jpg
-toc: true
 sidebar: true
 ---
 <!--StartFragment-->

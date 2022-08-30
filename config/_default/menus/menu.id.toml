@@ -1,0 +1,90 @@
+[[main]]
+  name = "Blog"
+  url = ""
+  weight = 10
+
+[[main]]
+  name = "SK Ranting"
+  url = "/sk_ranting/"
+  weight = 20
+
+[[main]]
+  name = "Tentang Kami"
+  url = "/about/"
+  weight = 30
+
+[[main]]
+  name = "Lembaga"
+  url = "/institution/"
+  identifier = "institution"
+  weight = 40
+
+[[main]]
+  name = "Lazismu"
+  url = "https://lazismu.org/"
+  parent = "institution"
+  weight = 10
+
+[[main]]
+  name = "RMI NU"
+  url = "https://rmi-nu.or.id/"
+  parent = "institution"
+  weight = 20
+
+[[main]]
+  name = "Asilah LBM"
+  url = "https://t.ly/4OZ2"
+  parent = "institution"
+  weight = 30
+
+[[main]]
+  name = "Laspekdam"
+  url = "#"
+  parent = "institution"
+  weight = 40
+
+[[main]]
+  name = "Link"
+  url = "/links/"
+  identifier = "Links"
+  weight = 50
+
+[[main]]
+  name = "NU Online"
+  url = "https://www.nu.or.id/"
+  parent = "Links"
+  weight = 10
+
+[[main]]
+  name = "NU Jateng"
+  url = "https://jateng.nu.or.id/"
+  parent = "Links"
+  weight = 20
+
+[[main]]
+  name = "NU Jepara"
+  url = "https://nujepara.or.id/"
+  parent = "Links"
+  weight = 30
+
+[[main]]
+  name = "Kementerian Agama RI"
+  url = "https://kemenag.go.id/"
+  parent = "Links"
+  weight = 40
+
+[[main]]
+  name = "Bahtsul Masail"
+  url = "https://islam.nu.or.id/bahtsul-masail"
+  parent = "Links"
+  weight = 50
+
+# [[main]]
+#   name = "<img src=\"/icons/mail.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
+#   url = "/contact/"
+#   weight = 50
+
+[[main]]
+  name = "<img src=\"/icons/search.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
+  url = "/search/"
+  weight = 60

@@ -1,0 +1,47 @@
+[read_more]
+other = "Baca Selengkapnya"
+
+[copyright]
+other = "Copyright"
+
+[all_rights]
+other = "All Rights Reserved"
+
+[share_on]
+other = "Bagikan di"
+
+[featured_posts]
+other = "Postingan Unggulan"
+
+[recent_posts]
+other = "Postingan Terbaru"
+
+[404_title]
+other = "Kosong"
+
+[could_not_find]
+other = "Kami tidak dapat menemukan halaman yang Anda cari"
+
+[go_back]
+other = "Kembali"
+
+[translations]
+other = "Terjemahan"
+
+[categories]
+other = "Kategori"
+
+[tags]
+other = "Tag"
+
+[series]
+other = "Seri"
+
+[all_categories]
+other = "Semua Kategori"
+
+[all_tags]
+other = "Semua Tag"
+
+[all_series]
+other = "Semua Seri"

@@ -1,1 +1,0 @@
-bash build_optimized.sh && netlify deploy -p

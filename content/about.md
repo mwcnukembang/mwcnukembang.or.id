@@ -1,8 +1,8 @@
 ---
-title: "Tentang Kami"
+title: "Tokoh"
 slug: "/about/"
 discussionId: "/about/"
-date: 2020-10-10
+date: 2022-08-30
 ---
 
 # Pengurus MWC NU Kecamatan kembang

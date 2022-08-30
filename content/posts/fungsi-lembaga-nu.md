@@ -34,6 +34,4 @@ toc: true
 17. Lembaga Pendidikan Tinggi Nahdlatul Ulama disingkat LPTNU, bertugas mengembangkan pendidikan tinggi Nahdlatul Ulama;
 18. Lembaga Penanggulangan Bencana dan Perubahan Iklim Nahdlatul Ulama disingkat LPBI NU, bertugas melaksanakan kebijakan Nahdlatul Ulama dalam pencegahan dan penanggulangan bencana serta eksplorasi kelautan
 
-[WhatsApp](https://mwcnukembang.or.id/#whatsapp "WhatsApp")[Facebook](https://mwcnukembang.or.id/#facebook "Facebook")[Twitter](https://mwcnukembang.or.id/#twitter "Twitter")[Email](https://mwcnukembang.or.id/#email "Email")[Print](https://mwcnukembang.or.id/#print "Print")[Copy Link](https://mwcnukembang.or.id/#copy_link "Copy Link")[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fmwcnukembang.or.id%2Ffungsi-lembaga-nu%2F&title=Fungsi%20Lembaga%20NU)
-
 <!--EndFragment-->

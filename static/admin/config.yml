@@ -15,8 +15,8 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Categories', name: 'categories', widget: 'array',allow_add: false }
-      - { label: 'Tag', name: 'tags', widget: 'array', allow_add: true }
+      - { label: 'Categories', name: 'categories', widget: 'list',allow_add: false }
+      - { label: 'Tag', name: 'tags', widget: 'list', min: 1 }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'file', choose_url: false }
       # - { label: 'Slug (URL)', name: 'slug', widget: 'string' }

@@ -14,11 +14,11 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Categories', name: 'categories', widget: 'list', default: ["Umum"] }
-      - { label: 'Tag', name: 'tags', widget: 'list', default: ["Umum"] }
+      - { label: 'Categories', name: 'categories', widget: 'list' }
+      - { label: 'Tag', name: 'tags', widget: 'list', default: ["Umum"], allow_add: true }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'file', choose_url: false }
-      - { label: 'Slug (URL)', name: 'slug', widget: 'string' }
-      - { label: "Unggulan", name: "featured", widget: "boolean", default: false}
-      - { label: "TOC (tocbot)", name: "toc", widget: "boolean", default: true}
+      # - { label: 'Slug (URL)', name: 'slug', widget: 'string' }
+      - { label: "Unggulan", name: "featured", widget: "boolean", required: false}
+      - { label: "TOC (tocbot)", name: "toc", widget: "boolean", required: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }

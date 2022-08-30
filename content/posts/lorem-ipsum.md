@@ -1,12 +1,15 @@
 ---
 title: Lorem Ipsum
 date: 2022-08-30T07:00:23.370Z
+categories:
+  - Coba
+tags:
+  - co
 description: "**Lorem Ipsum** is simply dummy text of the printing and
   typesetting industry. Lorem Ipsum has been the industry's standard dummy text
   ever since the 1500s,"
+thumbnail: /images/cover.jpg
 ---
-![](/images/cover.jpg)
-
 <!--StartFragment-->
 
 ## What is Lorem Ipsum?

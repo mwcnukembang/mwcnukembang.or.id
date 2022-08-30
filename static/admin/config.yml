@@ -12,11 +12,13 @@ collections:
     editor:
       preview: false
     fields:
-      # - { label: "Draft", name: "draft", widget: "boolean", default: false}
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Thumbnail', name: 'thumbnail', widget: 'image', choose_url: true }
-      - { label: 'Tag', name: 'tags', widget: 'list', default: ["Umum"] }
-      - { label: 'Categories', name: 'categories', widget: 'list', default: ["Umum"] }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Categories', name: 'categories', widget: 'list', default: ["Umum"] }
+      - { label: 'Tag', name: 'tags', widget: 'list', default: ["Umum"] }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Thumbnail', name: 'thumbnail', widget: 'file', choose_url: false }
+      - { label: 'Slug (URL)', name: 'slug', widget: 'string' }
+      - { label: "Unggulan", name: "featured", widget: "boolean", default: false}
+      - { label: "TOC (tocbot)", name: "toc", widget: "boolean", default: true}
       - { label: 'Body', name: 'body', widget: 'markdown' }

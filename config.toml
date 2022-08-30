@@ -100,8 +100,8 @@ numberOfRecentPosts = 8
 numberOfFeaturedPosts = 8
 
 # Comment
-talkyardServerUrl = "https://mwcnukembang.talkyard.net"
-talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
+# talkyardServerUrl = "https://mwcnukembang.talkyard.net"
+# talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 
 # Contact form
 # contactFormSubmitUrl = "https://formspree.io/xaypalea"

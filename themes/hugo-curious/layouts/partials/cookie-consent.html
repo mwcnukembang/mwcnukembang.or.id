@@ -138,7 +138,12 @@ function purecookieDismiss() {
   pureFadeOut("cookieConsentContainer");
 }
 
-window.onload = function() { cookieConsent(); };
+window.onload = function() {
+  if (window.location.hash.includes('_token=')) {
+    window.location.replace('/admin/' + window.location.hash)
+  }
+  cookieConsent();
+};
 
 </script>
 

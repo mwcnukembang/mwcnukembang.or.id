@@ -15,6 +15,8 @@ toc: true
 ---
 <!--StartFragment-->
 
+# Nahdlatul Ulama
+
 ![](/images/logo-nu-678x381.jpg)
 
 Nahdlatul Ulama didirikan oleh ulama pondok pesantren di Surabaya pada tanggal 16 Rajab 1344 H bertepatan dengan tanggal 31 Januari 1926 M untuk waktu yang tak terbatas. Nahdlatul Ulama berkedudukan di Jakarta, Ibu kota Negara Republik Indonesia yang merupakan tempat kedudukan Pengurus Besarnya.
@@ -25,7 +27,7 @@ Dalam Menjalankan Organisasi Tentuya ada aturan organisasi di dalamnnya baik mas
 
 Kepengurusan adalah hal yang sangat penting, berikut dibawah ini susun struktur NU berdasarkan  Anggaran Dasar/ Anggaran Rumah Tangga (AD/ART) Pengurus Besar Nahdlatul Ulama (PBNU) hasil Mukatamar ke-34 tahun 2022.
 
-#### Pengurus Majelis Wakil Cabang Nahdlatul Ulama terdiri atas:
+## Pengurus Majelis Wakil Cabang Nahdlatul Ulama terdiri atas:
 
 1. Mustasyar Pengurus Majelis Wakil Cabang;
 2. Pengurus Majelis Wakil Cabang Harian Syuriyah;
@@ -34,7 +36,7 @@ Kepengurusan adalah hal yang sangat penting, berikut dibawah ini susun struktur 
 5. Pengurus Majelis Wakil Cabang Lengkap Tanfidziyah;
 6. Pengurus Majelis Wakil Cabang Pleno.
 
-#### Pengurus Ranting Nadhlatul Ulama terdiri atas:
+## Pengurus Ranting Nadhlatul Ulama terdiri atas:
 
 1. Pengurus Ranting Harian Syuriyah;
 2. Pengurus Ranting Lengkap Syuriyah;
@@ -42,7 +44,7 @@ Kepengurusan adalah hal yang sangat penting, berikut dibawah ini susun struktur 
 4. Pengurus Ranting Lengkap Tanfidziyah;
 5. Pengurus Ranting Pleno.
 
-#### Pengurus Anak Ranting Nahdlatul Ulama terdiri dari:
+## Pengurus Anak Ranting Nahdlatul Ulama terdiri dari:
 
 1. Pengurus Anak Ranting Harian Syuriyah;
 2. Pengurus Anak Ranting Lengkap Syuriyah;
@@ -56,25 +58,25 @@ Dalam Menjalankan Kepengurusannya pemegang kepengurusan harus mengadakan rapat. 
 
 Berdasarkan AD/ART NU hasil Muktamar ke 34 Tahun 2022, agenda rapat kerja NU dapat dilihat diaturan di bawah ini.
 
-##### Pasal 91
+### Pasal 91
 
 1. Rapat Pleno adalah rapat yang dihadiri oleh Mustasyar, Pengurus Lengkap Syuriyah, Pengurus Harian Tanfidziyah, Ketua Lembaga dan Ketua Badan Otonom.
 2. Rapat Pleno diadakan sekurang-kurangnya 6 (enam) bulan sekali.
 3. Rapat Pleno membicarakan pelaksanaan program kerja.
 
-##### Pasal 92
+### Pasal 92
 
 1. Rapat Harian Syuriyah dan Tanfidziyah dihadiri oleh Pengurus Besar Harian, Syuriyah dan Pengurus Besar Harian Tanfidziyah.
 2. Rapat Harian Syuriyah dan Tanfidziyah diadakan sekurang-kurangnya 3 (tiga) bulan sekali.
 3. Rapat Harian Syuriyah dan Tanfidziyah membahas kelembagaan Perkumpulan, pelaksanaan dan pengembangan program kerja.
 
-##### Pasal 93
+### Pasal 93
 
 1. Rapat Harian  Syuriyah  dihadiri  oleh  Pengurus  Harian  Syuriyah  dan  dapat mengikut sertakan Mustasya
 2. Rapat Harian Syuriyah diadakan sekurang-kurangnya 3 (tiga) bulan sekali.
 3. Rapat Harian Syuriyah membahas kelembagaan Perkumpulan, pelaksanaan dan pengembangan program kerja.
 
-##### Pasal 94
+### Pasal 94
 
 1. Rapat Harian Tanfidziyah dihadiri oleh Pengurus Harian Tanfidziyah.
 2. Rapat Harian Tanfidziyah diadakan sekurang-kurangnya 2 (dua) bulan sekali.

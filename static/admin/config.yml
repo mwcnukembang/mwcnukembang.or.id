@@ -20,7 +20,7 @@ collections:
       - { label: 'Thumbnail', name: 'thumbnail', widget: 'file', choose_url: false }
       # - { label: 'Slug (URL)', name: 'slug', widget: 'string' }
       - { label: "Unggulan", name: "featured", widget: "boolean", required: false}
-      - { label: "TOC (tocbot)", name: "toc", widget: "boolean", required: false}
-      - { label: "Sidebar", name: "sidebar", widget: "boolean", default: true}
-      - { label: "Show Read Time", name: "showReadTime", widget: "boolean", default: true}
+      - { label: "TOC (tocbot)", name: "toc", widget: "boolean", default: true}
+      # - { label: "Sidebar", name: "sidebar", widget: "boolean", default: true}
+      # - { label: "Show Read Time", name: "showReadTime", widget: "boolean", default: true}
       - { label: 'Body', name: 'body', widget: 'markdown' }

@@ -3,6 +3,7 @@ title: "Kebijakan Privasi"
 slug: "/privacypolicy/"
 discussionId: "/privacypolicy/"
 date: 2022-08-29
+toc: true
 ---
 
 <!-- # Kebijakan Privasi -->

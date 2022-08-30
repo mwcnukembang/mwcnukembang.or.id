@@ -12,6 +12,8 @@ thumbnail: /images/nahdlatul_ulama_logo.svg
 featured: true
 toc: true
 ---
+![NU](/images/nahdlatul_ulama_logo.svg "NU")
+
 <!--StartFragment-->
 
 MWCNU Kembang Melalui Sekjen meluncurkan Web Resmi MWCNu Kembang dengan alamat `https://mwcnukembang.or.id`. pada Tanggal 25 April 2022 dengan Editor Programer Ahmad Riski Andriyanto.

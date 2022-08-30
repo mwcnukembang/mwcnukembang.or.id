@@ -11,6 +11,7 @@ description: Majlis Wakil Cabang Nahdlatul Ulama Kecamatan kembang menerima
   Oleh Sekjen-Sekjen MWC NU Kembang di rumah Bp. Abdul Rosyad, karena tempat
   yang dianggap sebagai pos utama yang dekat dengan Gedung MWCNU Kembang.
 thumbnail: /images/e8d3238a-7797-45d3-94db-6f41b2f49b33-678x381.jpg
+featured: true
 toc: true
 ---
 <!--StartFragment-->

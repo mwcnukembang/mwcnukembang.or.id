@@ -1,11 +1,11 @@
 ---
-title: "Privacy & Policy"
+title: "Kebijakan Privasi"
 slug: "/privacypolicy/"
 discussionId: "/privacypolicy/"
 date: 2022-08-29
 ---
 
-# Kebijakan Privasi
+<!-- # Kebijakan Privasi -->
 
 Website MWC NU Kecamatan Kembang dimiliki oleh MWC NU Kecamatan Kembang, yang akan menjadi pengontrol atas data pribadi Anda.
 

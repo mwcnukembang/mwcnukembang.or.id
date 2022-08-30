@@ -5,6 +5,8 @@ categories:
   - wiki
 tags:
   - wiki
+  - wikipedia
+  - en
 description: A wiki (/ˈwɪki/ (listen) WIK-ee) is a hypertext publication
   collaboratively edited and managed by its own audience, using a web browser. A
   typical wiki contains multiple pages for the subjects or scope of the project,
@@ -12,6 +14,7 @@ description: A wiki (/ˈwɪki/ (listen) WIK-ee) is a hypertext publication
   organization for maintaining its internal knowledge base.
 thumbnail: /images/englishwikipedia_29june2017.png
 featured: true
+toc: true
 ---
 <!--StartFragment-->
 

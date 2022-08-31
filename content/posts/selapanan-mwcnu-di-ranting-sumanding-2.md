@@ -30,6 +30,4 @@ Perbedaan kilafiyah jangan sampai menjadikan perpecahan Umat islam, marilah kita
 
 Kegiatan terakhir ditutup dengan pembacaan kitab “Kawakib Al lamma’ah” tentang Hakekat ahli sunnah yang mana yang di kandung maksut Ahlusunnah Waljamaah adalah Ahlussunnah wal Jama’ah sendiri merupakan paham keagamaan kaum Sunni yang berasal dari kalam Abu Hasan Al-Asy’ari dan Abu Mansur Al-Maturidi. Paham ini mengambil jalan tengah antara ahlul ra’yi (kelompok rasionalis) dan ahlul hadits sehingga memiliki pemikiran dan paham yang cenderung moderat (wasathi), tidak terlalu tekstual juga tidak terlalu rasional. Kegiatan di tutup dengan doa dan makan nampanan secara bersama sama dengan jamaah pengajian.
 
-[WhatsApp](https://mwcnukembang.or.id/#whatsapp "WhatsApp")[Facebook](https://mwcnukembang.or.id/#facebook "Facebook")[Twitter](https://mwcnukembang.or.id/#twitter "Twitter")[Email](https://mwcnukembang.or.id/#email "Email")[Print](https://mwcnukembang.or.id/#print "Print")[Copy Link](https://mwcnukembang.or.id/#copy_link "Copy Link")[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fmwcnukembang.or.id%2Fselapanan-mwcnu-di-ranting-sumanding-2%2F&title=Selapanan%20MWCNU%20Di%20Ranting%20Sumanding%202)
-
 <!--EndFragment-->

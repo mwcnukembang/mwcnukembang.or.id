@@ -16,9 +16,9 @@ toc: true
 ---
 <!--StartFragment-->
 
-# Nahdlatul Ulama
-
 ![](/images/logo-nu-678x381.jpg)
+
+# Nahdlatul Ulama
 
 Nahdlatul Ulama didirikan oleh ulama pondok pesantren di Surabaya pada tanggal 16 Rajab 1344 H bertepatan dengan tanggal 31 Januari 1926 M untuk waktu yang tak terbatas. Nahdlatul Ulama berkedudukan di Jakarta, Ibu kota Negara Republik Indonesia yang merupakan tempat kedudukan Pengurus Besarnya.
 

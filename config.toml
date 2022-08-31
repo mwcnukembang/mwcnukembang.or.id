@@ -56,7 +56,7 @@ searchTypes = ["posts"]
 codeLineNumbers = true
 
 # Google analytics Id
-# ga_analytics = "UA-176023093-1"
+ga_analytics = "G-S4PFSP8XTB"
 
 # limit the number of taxonomies links shown on the sidebar of each page by default.
 numberOfTagsShown = 8 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy

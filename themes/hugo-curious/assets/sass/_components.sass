@@ -41,7 +41,7 @@
     left: 0
     position: absolute
     z-index: 20
-    border-radius: 0 0 0.5rem 0.5rem 
+    border-radius: 0 0 0.5rem 0.5rem
     top: 3rem
     transition: height 0.3s ease-in-out
     height: 0
@@ -187,7 +187,7 @@
     .content.without-toc
       max-width: 1200px
 
-.footer 
+.footer
   border-top: 1px solid $xhaze
   background: var(--footer-bg)
   margin-top: 2rem
@@ -214,7 +214,7 @@
     background-color: darken($theme, 20%)
     color: $light
     border: 1px solid darken($theme, 20%)
-    
+
   &_translucent
     background-color: rgba($theme, 0.15)
     color: $theme
@@ -486,12 +486,12 @@ h3.post_link
     min-height: 10rem
     display: none
     @media screen and (min-width: 769px)
-      display: block 
+      display: block
       border-radius: 0.5rem
   &_footer
     &.partition
       display: grid
-      @media screen and (min-width: 769px) 
+      @media screen and (min-width: 769px)
         grid-template-columns: 2fr 7fr
         grid-gap: 1rem
 
@@ -513,6 +513,7 @@ h3.post_link
     .intro
       margin-bottom: 2rem
       h2
+        color: #218c74
         margin-top: 0
         margin-bottom: 0
         font-weight: bold
@@ -521,13 +522,14 @@ h3.post_link
         margin-bottom: 0
         padding-bottom: 0
     h2.widget-title
+      color: #218c74
       background: rgba(100, 100, 100, 0.1)
       border-left: 8px solid var(--header-text)
       font-size: 1.4rem
       padding-left: 1rem
       border-radius: 0.5rem
       font-weight: bold
-    
+
 
 .pagination
   display: flex
@@ -553,7 +555,7 @@ h3.post_link
   &_left
     float: left
     margin-right: 1rem
-    + p 
+    + p
       padding-top: 0
   &_right
     float: right
@@ -605,8 +607,8 @@ h3.post_link
     &:hover svg
       opacity: 1
 
-.color 
-  &_mode 
+.color
+  &_mode
     // width: 3rem
     height: 1.5rem
     display: grid

@@ -9,6 +9,7 @@ description: 1. embaga  Dakwah    Nahdlatul    Ulama    disingkat   
    bertugas melaksanakan kebijakan Nahdlatul Ulama di bidang pengembangan agama
   Islam yang menganut faham Ahlussunnah wal Jama’ah;
 thumbnail: /images/nahdlatul_ulama_logo.svg
+featured: true
 toc: true
 ---
 <!--StartFragment-->

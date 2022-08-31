@@ -48,6 +48,4 @@ Kegiatan Bathsul Masail berjalan dengan lancer walaupun pada hakekatnya hanya 7 
 
 Hasil dari kegiatan Batshul Masail nantinya akan di Upload dan dapat dilihat/diunduh di web Resmi MWC NU Kembang dengan alamat :  [https://mwcnukembang.or.id](https://mwcnukembang.or.id/) di Menu ***Lembaga*** dan ***sub LBM*** Atau bisa langsung di buka dengan link <https://mwcnukembang.or.id/lbm> .
 
-[WhatsApp](https://mwcnukembang.or.id/#whatsapp "WhatsApp")[Facebook](https://mwcnukembang.or.id/#facebook "Facebook")[Twitter](https://mwcnukembang.or.id/#twitter "Twitter")[Email](https://mwcnukembang.or.id/#email "Email")[Print](https://mwcnukembang.or.id/#print "Print")[Copy Link](https://mwcnukembang.or.id/#copy_link "Copy Link")[Share](https://www.addtoany.com/share#url=https%3A%2F%2Fmwcnukembang.or.id%2Fbm-dana-santunan%2F&title=BM%20Dana%20Santunan)
-
 <!--EndFragment-->

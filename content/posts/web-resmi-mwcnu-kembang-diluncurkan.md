@@ -16,7 +16,7 @@ toc: true
 
 <!--StartFragment-->
 
-MWCNU Kembang Melalui Sekjen meluncurkan Web Resmi MWCNu Kembang dengan alamat `https://mwcnukembang.or.id`. pada Tanggal 25 April 2022 dengan Editor Programer Ahmad Riski Andriyanto.
+MWCNU Kembang Melalui Sekjen meluncurkan Web Resmi MWCNU Kembang dengan alamat `https://mwcnukembang.or.id`. pada Tanggal 25 April 2022 dengan Editor Programer [Ahmad Riski Andriyanto](https://github.com/andrizan).
 
 Diharapkan dengan webset resmi ini bisa memberikan layan informasi kepada masyarakat secara cepat dan mudah baik berkaitan dengan kegiatan keagamaan di kecamatan kembang maupn tentang Batshul Masail.
 

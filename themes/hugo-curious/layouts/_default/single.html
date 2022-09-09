@@ -22,12 +22,12 @@
     {{- .Content }}
     </div>
     {{ if eq .Type "posts" }}
-    <div style="border: 2px solid #efefef; padding: 2rem; margin-top: 2rem;">
+    <!-- <div style="border: 2px solid #efefef; padding: 2rem; margin-top: 2rem;">
       {{ partial "subscriber-form" . }}
-    </div>
-    {{ if and ( ne .Site.Params.comment false ) ( ne .Params.comment false ) }}
+    </div> -->
+    <!-- {{ if and ( ne .Site.Params.comment false ) ( ne .Params.comment false ) }}
       {{ partial "comments" . }}
-    {{ end }}
+    {{ end }} -->
     {{ partial "related-posts" . }}
     {{ end }}
   </article>
@@ -35,15 +35,19 @@
   {{ if $show_toc }}
   <aside class="sidebar">
     <section class="sidebar_inner">
-      
+
       <div class="sticky-toc">
         <div class="js-toc"></div>
       </div>
-      
+
       <!-- {{ .TableOfContents }} -->
     </section>
   </aside>
   {{ end }}
-
+  {{ if and ( ne .Site.Params.comment false ) ( ne .Params.comment false ) }}
+    <div>
+      {{ partial "disqus" . }}
+    </div>
+  {{ end }}
 </div>
 {{- end }}

@@ -94,7 +94,7 @@ enforceLightMode = true
 # titleSeparator = "|"
 
 # Enable or disable comment globally. Default to true.
-# comment = false
+comment = true
 
 # Maximum number of recent posts.
 numberOfRecentPosts = 8
@@ -105,6 +105,10 @@ numberOfFeaturedPosts = 8
 # Comment
 # talkyardServerUrl = "https://mwcnukembang.talkyard.net"
 # talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
+
+# Disqus
+disqusServerUrl = "https://mwcnukembang-or-id.disqus.com/"
+disqusShortname = "admin"
 
 # Contact form
 # contactFormSubmitUrl = "https://formspree.io/xaypalea"

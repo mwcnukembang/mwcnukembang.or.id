@@ -3,7 +3,9 @@ title: Rutinan Ansor Ranting Jinggotan 2
 date: 2022-09-12T01:38:09.425Z
 categories:
   - Ansor
-description: Rutinan GP. Ansor Jinggotan 2
+description: P﻿impinan Ranting Gerakan Pemuda Ansor Ranting Jinggotan 2
+  Melaksanakan kegiatan Rutin Di Musholla An Nur dukuh Segawe Rt 01 Rw 01 Desa
+  Jinggotan kembang Jepara.
 thumbnail: /images/069a919b-ef27-4c2c-b596-766da8d6ea4e.jpg
 toc: true
 ---

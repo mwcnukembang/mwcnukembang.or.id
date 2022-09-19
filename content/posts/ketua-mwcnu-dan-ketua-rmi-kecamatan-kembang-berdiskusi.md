@@ -12,7 +12,7 @@ toc: true
 ---
 **RABITHAH MA'AHID ISLAMIYAH**, selanjutnya disingkat RMI adalah salah satu perangkat departementasi organisasi Nahdlatul Ulama pada setiap jenjang kepengurusan yang berfungsi sebagai pelaksana kebijakan Nahdlatul Ulama khususnya ynng berkaitan dengan bidang tertentu.
 
-Ketua MWCNU Kembang K. A. Fauzan bersama dengan Ketua RMI K. Lukmanu Hakim bertemu dan berdiskusi di Ponpes As Salam Kancilan pada Senin, 19 September 2022 membahas kepengurusan dan program-program.
+Ketua MWCNU Kembang K. A. Fauzan bersama dengan Ketua RMI K. Lukmanul Hakim bertemu dan berdiskusi di Ponpes As Salam Kancilan pada Senin, 19 September 2022 membahas kepengurusan dan program-program.
 
 Menurut Ketua RMI MWCNU Kembang K. Lukman  menuturkan intruksi melengkapi kepengurusan RMI Kecamatan dari PCNu sudah turun akan tetapi RMI MWCNU Belum berani menindak lanjuti karena belum menerima Juknis, jadi belum bisa melengkapi kepengurusan tapi alhamdulillah ketua MWCNU bersama sekretaris bisa duduk bersama dengan membawa Juknis RMI sehingga nanti dapat segera ditindak lanjuti.
 

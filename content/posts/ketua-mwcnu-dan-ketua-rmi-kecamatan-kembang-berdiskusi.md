@@ -22,7 +22,7 @@ Ketua MWCNu Kembang mengharapkan dengan terbentuknya pengurus RMI MWCNU Kembang 
 
 Harapan dari Ketua RMI kecamatan kembang setelah diskusi dengan ketua MWCNu Kembang secepat mungkin program-progam yang dibawa oleh RMI Bisa terlaksana.
 
-Selain itu ketua RMI Kecamatan Kembang K. Lukman juga sudah mengusulkan kepada Ketua PCNU Jepara agar nantinya agar memberikan kemudahan bagi para Kiai/Ustadz diwilayah-wilayah dalam mendirikan pesantren.
+Selain itu ketua RMI Kecamatan Kembang K. Lukman juga sudah mengusulkan kepada Ketua PCNU Jepara nantinya agar memberikan kemudahan bagi para Kiai/Ustadz diwilayah-wilayah dalam mendirikan pesantren.
 
 Pesantren Islamic modern belum ada diwilayah kecamatan kembang, semoga kedepannya nantinya tumbuh dan muncul pesantren modern di kecamatan kembang yang diasuh oleh kiai/ustadz muda
 

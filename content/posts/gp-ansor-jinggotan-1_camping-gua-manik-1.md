@@ -8,6 +8,7 @@ description: P﻿impinan Anak Ranting Gerakan Pemuda Ansor Jinggotan 1 mengadaka
   kegiatan Camping ( Ngopi ) dan jagong-jagong di pantai Gua Manik Kecamatan
   Donorojo Jepara Jumat 23 September 2022.
 thumbnail: /images/16ad54b9-3229-4083-a06c-e7c348b42c24.jpg
+featured: true
 toc: true
 ---
 P﻿impinan Anak Ranting Gerakan Pemuda Ansor Jinggotan 1 mengadakan kegiatan Camping ( Ngopi ) dan jagong-jagong di pantai Gua Manik Kecamatan Donorojo Jepara Jumat 23 September 2022.

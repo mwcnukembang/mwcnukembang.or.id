@@ -3,8 +3,7 @@ title: GP. Ansor Jinggotan 1_Camping Gua Manik
 date: 2022-09-24T11:58:13.605Z
 categories:
   - Ansor
-tags:
-  - "#ansorjaten#ansorjepara"
+tags: []
 description: P﻿impinan Anak Ranting Gerakan Pemuda Ansor Jinggotan 1 mengadakan
   kegiatan Camping ( Ngopi ) dan jagong-jagong di pantai Gua Manik Kecamatan
   Donorojo Jepara Jumat 23 September 2022.

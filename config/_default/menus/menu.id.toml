@@ -44,7 +44,7 @@
   weight = 40
 
 [[main]]
-  name = "Link"
+  name = "Tautan"
   url = "/links/"
   identifier = "Links"
   weight = 50

@@ -8,7 +8,7 @@ description: Ketua Tanflidiyah MWCNU kembang berkunjung kekediaman Rois Suriah
   Samudra Bandengan jepara.
 thumbnail: /images/jagong.jpg
 featured: true
-toc: true
+toc: false
 ---
 Ketua Tanflidiyah MWCNU kembang berkunjung kekediaman Rois Suriah MWCNU kembang untuk melakukan kordinasi Peringatan HN 2022 di Pantai Tirto Samudra Bandengan jepara.
 

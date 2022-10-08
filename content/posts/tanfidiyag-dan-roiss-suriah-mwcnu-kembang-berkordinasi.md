@@ -1,5 +1,5 @@
 ---
-title: Tanfidiyag dan Roiss Suriah MWCNU Kembang Berkordinasi
+title: Tanfidiyah dan Rois Suriah MWCNU Kembang Berkordinasi
 date: 2022-10-08T12:56:22.360Z
 description: Ketua Tanflidiyah MWCNU kembang berkunjung kekediaman Rois Suriah
   MWCNU kembang untuk melakukan kordinasi Peringatan HN 2022 di Pantai Tirto

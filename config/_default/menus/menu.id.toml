@@ -20,8 +20,8 @@
   weight = 40
 
 [[main]]
-  name = "Laziznu"
-  url = "https://laziznujepara.org/"
+  name = "Lazisnu"
+  url = "https://lazisnujepara.org/"
   parent = "institution"
   weight = 10
 

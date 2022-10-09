@@ -13,7 +13,7 @@ description: P﻿engurus majlis wakil cabang Nahdlatu Ulama kecamatn kembang
 thumbnail: /images/4bbbd7d9-3e05-434f-b7a1-5e76cebc5775.jpg
 toc: false
 ---
-P﻿engurus majlis wakil cabang Nahdlatu Ulama kecamatn kembang mengadakan rapa kordinasi HSN 2022 bersama PAC Muslimat, Fatayat, GP Ansor dan Ketua Ranting NU Sekecamaan kembang digedung mwcnu, Ahad, 9 Oktober 2022.
+P﻿engurus majlis wakil cabang Nahdlatul Ulama kecamatan kembang mengadakan rapat kordinasi HSN 2022 bersama PAC Muslimat, Fatayat, GP Ansor dan Ketua Ranting NU Sekecamaan kembang digedung mwcnu, Ahad, 9 Oktober 2022.
 
 a﻿genda rapat tersebut sudah direncanakan beberapa minggu sebelumnya tetapi karena suatu hal (musibah) yang menimpa Rois Suriah dan Ketua Tanfidiyah sehingg pelaksanaan rapat kordinasi tertunda dan baru terlaksana pada ahad 9 oktober 2022. hadir dalam kegiatan tersebut Masing-masing Ketua Ranting Nu dan ketua Muslimat, Gp. Ansor dan Fatayat walaupun mengirimkan perwakilan.
 

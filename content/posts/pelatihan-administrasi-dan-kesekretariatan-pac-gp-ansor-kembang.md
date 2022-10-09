@@ -8,7 +8,7 @@ tags:
 description: Pimpinan Anak Cabang Gerakan Pemuda Ansor kecamatan Kembang
   mengadakan kegiatan Pelatihan Administrasi dan Kesekretariatan yang bertempat
   di SMK Nu Cendekia pada tanggal, 09/10/2022.
-thumbnail: /images/145c958c-8435-4e87-82a8-9d20f7bfd1a6.jpg
+thumbnail: /images/20221009_101801.jpg
 toc: false
 ---
 Pimpinan Anak Cabang Gerakan Pemuda Ansor kecamatan Kembang mengadakan kegiatan Pelatihan Administrasi dan Kesekretariatan yang bertempat di SMK Nu Cendekia pada tanggal, 09/10/2022.

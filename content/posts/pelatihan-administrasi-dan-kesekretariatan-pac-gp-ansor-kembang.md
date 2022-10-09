@@ -4,7 +4,8 @@ date: 2022-10-09T02:47:54.048Z
 categories:
   - ansor
 tags:
-  - "#ansorjepara#ansorjateng#"
+  - ansorjepara
+  - ansorjateng
 description: Pimpinan Anak Cabang Gerakan Pemuda Ansor kecamatan Kembang
   mengadakan kegiatan Pelatihan Administrasi dan Kesekretariatan yang bertempat
   di SMK Nu Cendekia pada tanggal, 09/10/2022.

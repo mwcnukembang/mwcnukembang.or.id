@@ -4,6 +4,9 @@ title: Rapat kordinasi MWC Nu dengan PAC Muslimat, Fatayat dan GP. Ansor dan
 date: 2022-10-09T09:47:17.919Z
 categories:
   - NU
+tags:
+  - pcnujepara
+  - pbnu
 description: P﻿engurus majlis wakil cabang Nahdlatu Ulama kecamatn kembang
   mengadakan rapa kordinasi HSN 2022 bersama PAC Muslimat, Fatayat, GP Ansor dan
   Ketua Ranting NU Sekecamaan kembang digedung mwcnu, Ahad, 9 Oktober 2022.

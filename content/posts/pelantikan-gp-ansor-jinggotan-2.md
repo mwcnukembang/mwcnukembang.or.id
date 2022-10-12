@@ -26,15 +26,7 @@ Gerakan Pemuda Ansor yang didirikan di Banyuwangi pada 10 Muharram 1353 Hijriyah
 Sebagai organisasi yang bersifat nasional, GP Ansor memiliki struktur kepengurusan hirarkhis dari tingkat pusat hungga ke ranting/desa. Kepengurusan Gerakan Pemuda Ansor tersebut mempunyai tingkatan sebagai berikut:
 
 1. Pengurus Gerakan Pemuda Ansor tingkat Pusat, selanjutnya disebut Pimpinan Pusat berkedudukan di Ibukota Negara Republik Indonesia.
-
-
-2 .Pengurus Gerakan Pemuda Ansor Daerah tingkat Propinsi, selanjutnya disebut Pimpinan Wilayah, berkedudukan di Ibukota Propinsi.
-
-
+2. Pengurus Gerakan Pemuda Ansor Daerah tingkat Propinsi, selanjutnya disebut Pimpinan Wilayah, berkedudukan di Ibukota Propinsi.
 3. Pengurus Gerakan Pemuda Ansor tingkat Kabupaten/Kota, selanjutnya disebut Pimpinan Cabang berkedudukan di Ibukota Kabupaten/Kota. 
-
-
 4. Pengurus Gerakan Pemuda Ansor tingkat Kecamatan selanjutnya disebut Pimpinan Anak Cabang berkedudukan di Kecamatan. 
-
-
 5. Pengurus Gerakan Pemuda Ansor tingkat Desa/Kelurahan selanjutnya disebut Pimpinan Ranting berkedudukan di Desa/Kelurahan.

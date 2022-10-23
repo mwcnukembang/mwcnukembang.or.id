@@ -1,5 +1,5 @@
 ---
-title: Peringatan Mauli Nabi Muhammad SAW & HSN 2022 MWCNU Kembang Beserta Banom
+title: Peringatan Maulid Nabi Muhammad SAW & HSN 2022 MWCNU Kembang Beserta Banom
 date: 2022-10-23T09:06:23.314Z
 categories:
   - MWCNU

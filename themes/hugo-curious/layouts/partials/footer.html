@@ -1,7 +1,7 @@
 <footer class="footer">
-  <div class="footer_inner wrap pale">
+  <div class="footer_inner wrap pale gradient-effect">
     <img alt="{{ .Site.Title | upper }}" src='{{ absURL "icons/apple-touch-icon.png" }}' class="icon icon_2 transparent">
-    <p>{{ i18n "copyright" }} &copy;&nbsp;<span class="year">{{ now.Format "2006"}}</span>&nbsp;{{ .Site.Title }}. {{ i18n "all_rights"}}
+    <p>{{ i18n "copyright" }} &copy;&nbsp;<span class="year">{{ now.Format "2006"}} <a href="https://github.com/andrizan/mwcnukembang.or.id" style="color:#218c74;"></span>&nbsp;{{ .Site.Title }}</a>. {{ i18n "all_rights"}}
     {{- if .Site.Params.copyRightExtended }}
       {{ .Site.Params.copyRightExtended | markdownify }}
     {{- end }}

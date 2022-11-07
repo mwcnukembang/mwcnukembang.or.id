@@ -11,3 +11,10 @@ HUGO_ENABLEGITINFO = "true"
   from = "/.well-known/*"
   to = "/well-known/:splat"
   status = 200
+
+[[plugins]]
+  package = "netlify-plugin-cloudinary"
+
+  [plugins.inputs]
+  cloudName = "andrizan"
+  deliveryType = "upload"

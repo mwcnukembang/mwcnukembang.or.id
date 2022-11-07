@@ -1,10 +1,10 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-# media_folder: static/images
-# public_folder: /images
+media_folder: static/images
+public_folder: /images
 media_library:
-  name: cloudinary
+  name: 'cloudinary'
   config:
     cloud_name: 'andrizan'
     api_key: '122176394347616'

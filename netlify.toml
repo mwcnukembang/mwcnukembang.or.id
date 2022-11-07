@@ -16,4 +16,4 @@ HUGO_ENABLEGITINFO = "true"
   package = "netlify-plugin-cloudinary"
 
   [plugins.inputs]
-  cloudName = "andrizan"
+    cloudName = "andrizan"

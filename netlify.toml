@@ -18,3 +18,4 @@ HUGO_ENABLEGITINFO = "true"
   [plugins.inputs]
   cloudName = "andrizan"
   deliveryType = "upload"
+  uploadPreset = "ml_default"

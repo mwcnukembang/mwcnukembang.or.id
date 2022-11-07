@@ -6,8 +6,8 @@ backend:
 media_library:
   name: cloudinary
   config:
-    cloud_name: andrizan
-    api_key: "122176394347616"
+    cloud_name: 'andrizan'
+    api_key: '122176394347616'
 collections:
   - name: 'posts'
     label: 'Posts'

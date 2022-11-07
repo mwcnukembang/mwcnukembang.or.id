@@ -1,7 +1,7 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "/"  # Include trailing slash
-# baseurl = "https://www.mwcnukembang.or.id/"  # Include trailing slash
+# baseurl = "/"  # Include trailing slash
+baseurl = "https://www.mwcnukembang.or.id/"  # Include trailing slash
 title = "MWC NU Kec. Kembang"
 author = "Riski Andriyanto"
 #canonifyurls = true

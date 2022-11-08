@@ -7,12 +7,6 @@ HUGO_VERSION = "0.76.4"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
-[[plugins]]
-  package = "netlify-plugin-cloudinary"
-
-  [plugins.inputs]
-  cloudName = "andrizan"
-
 [[redirects]]
   from = "/.well-known/*"
   to = "/well-known/:splat"

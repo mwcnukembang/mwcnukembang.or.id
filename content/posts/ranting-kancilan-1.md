@@ -13,7 +13,7 @@ MWCNU Kembang, Pengurus Ranting Kancilan 1 mengadakan kegiatan rutinan selapanan
 
 Ketua Tanfidziyah K. Abdul Muiz mengucapkan terima kasih atas kepercayaan yang diberikan oleh MWCNU Kembang kepada Ranting Kancilan 1 untuk melaksanakan kegiatan tersebut, kebetulan acara tersebut di barengkan dengan kegiatan Idarohan RW 05,06,07,08 yang jatuh giliran RW 07.
 
-memang kegiatan selapanan dibarengkan dengan kegiatan idarohan karena memiliki tema yang sama yaitu "ngaos* agama yang sudah menjadi kegiatan rutin ranting Kancilan 01, dan ucapan terima kasih kepada seluruh warga dan banon NU Ranting Kancilan 01, terutama dalam kegiatan Khoul Massal dengan dana masuk sebesar Rp. 11.000.1000,00, .
+memang kegiatan selapanan dibarengkan dengan kegiatan idarohan karena memiliki tema yang sama yaitu "ngaos* agama yang sudah menjadi kegiatan rutin ranting Kancilan 01, dan ucapan terima kasih kepada seluruh warga dan banon NU Ranting Kancilan 01, terutama dalam kegiatan Khoul Massal dengan dana masuk sebesar Rp. 11.001.000,00, .
 
 Petinggi Kancilan Yuswoto SH, juga mengapresiasi kepada masyarakan kancilan terutama warga NU yang mana setiap kegiatan Ke-NU-an mempunyai dampak yang positif bagi warga masyarakat, apalagi kaula muda selalu hadir dan mensuksesskan acara tersebut sebagai bentuk eksistensi kepada masyarakat.
 

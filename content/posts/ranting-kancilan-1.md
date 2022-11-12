@@ -17,12 +17,12 @@ memang kegiatan selapanan dibarengkan dengan kegiatan idarohan karena memiliki t
 
 Petinggi Kancilan Yuswoto SH, juga mengapresiasi kepada masyarakan kancilan terutama warga NU yang mana setiap kegiatan Ke-NU-an mempunyai dampak yang positif bagi warga masyarakat, apalagi kaula muda selalu hadir dan mensuksesskan acara tersebut sebagai bentuk eksistensi kepada masyarakat.
 
-Kegiatan "Ngaos" memang perlu digiatkan karena Ngaos merupakan salah satu cara unuk mendapatkan pengetahuan atau ilmu, tidak hanya menjadi tradisi Ngaos ini adalah penyelamat jiwa, Imbuh dari MWCNU Kembang yang diwakili K. Mansur, S.Ag Slogannya "NU" Nuntun Umat.
+Kegiatan "Ngaos" memang perlu digiatkan karena Ngaos merupakan salah satu cara untuk mendapatkan pengetahuan atau ilmu, tidak hanya menjadi tradisi Ngaos ini adalah penyelamat jiwa, Imbuh dari MWCNU Kembang yang diwakili K. Mansur, S.Ag Slogannya "NU" Nuntun Umat.
 
 Pengajian tersebut berjalan dengan lancar karena banyaknya warga sekitar masjid Al Hidayah hadir dan tidak ketinggalan BANSER Kancilan Juga ikut andil mengamankan kegiatan tersebut hingga purna acara,
 
 Dana yang masuk dalam kegiatan itu yang bersumber dari Khoul Massal sebagian nanti akan diberikan kepada Yayasan Pendidikan Hidayatus Sibyan yang saat ini sedang membangun sarana pendidikan dengan presentase yang akan dirembuk lagi .
 
-Acara inti adalah Pembacaan kitab yang dibacakan oleh Ketua Tanfidziyah MWCNUKembang K. Ahmad Fauzan dengan isi "Syukur" arti syukur ini sangat luas yang terpenting mensyukuri nikmat Azllah berupa kesahatan badan jasmani dan Rohani.
+Acara inti adalah Pembacaan kitab yang dibacakan oleh Ketua Tanfidziyah MWCNU Kembang K. Ahmad Fauzan dengan isi "Syukur" arti syukur ini sangat luas yang terpenting mensyukuri nikmat ALLAH SWT  berupa kesahatan badan jasmani dan Rohani.
 
 Sebagai Penutup acara .adalah ramah tamah yang mana masyarakat menyediakan 150 Nampanan untuk dinikmati bersama oleh seluruh jamaah yang hadir dalam kegiatan tersebut, nampanan ini disediakan oleh warga RW 05, 06, 07, 08 desa Kancilan Depoksari.

@@ -15,7 +15,7 @@ Ketua Tanfidziyah K. Abdul Muiz mengucapkan terima kasih atas kepercayaan yang d
 
 memang kegiatan selapanan dibarengkan dengan kegiatan idarohan karena memiliki tema yang sama yaitu "ngaos* agama yang sudah menjadi kegiatan rutin ranting Kancilan 01, dan ucapan terima kasih kepada seluruh warga dan banon NU Ranting Kancilan 01, terutama dalam kegiatan Khoul Massal dengan dana masuk sebesar Rp. 11.001.000,00, .
 
-Petinggi Kancilan Yuswoto SH, juga mengapresiasi kepada masyarakan kancilan terutama warga NU yang mana setiap kegiatan Ke-NU-an mempunyai dampak yang positif bagi warga masyarakat, apalagi kaula muda selalu hadir dan mensuksesskan acara tersebut sebagai bentuk eksistensi kepada masyarakat.
+Petinggi Kancilan Yuswoto SH, juga mengapresiasi kepada masyarakat  kancilan terutama warga NU yang mana setiap kegiatan Ke-NU-an mempunyai dampak yang positif bagi warga masyarakat, apalagi kaula muda selalu hadir dan mensuksesskan acara tersebut sebagai bentuk eksistensi kepada masyarakat.
 
 Kegiatan "Ngaos" memang perlu digiatkan karena Ngaos merupakan salah satu cara untuk mendapatkan pengetahuan atau ilmu, tidak hanya menjadi tradisi Ngaos ini adalah penyelamat jiwa, Imbuh dari MWCNU Kembang yang diwakili K. Mansur, S.Ag Slogannya "NU" Nuntun Umat.
 

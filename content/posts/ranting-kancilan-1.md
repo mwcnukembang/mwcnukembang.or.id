@@ -9,13 +9,13 @@ description: MWCNU Kembang, Pengurus Ranting Kancilan 1 mengadakan keitan
 thumbnail: /images/4cde88f6-0333-4fa7-8dca-16d7002480a2.jpg
 toc: false
 ---
-MWCNU Kembang, Pengurus Ranting Kancilan 1 mengadakan keitan rutinan selapanan MWC NU Kembang semua ranting hadir dalam kegiatan selapanan mwcnu kembang yang dilaksanakan di Masjid Al Hidayah Depoksari Kancilan.
+MWCNU Kembang, Pengurus Ranting Kancilan 1 mengadakan kegiatan rutinan selapanan MWC NU Kembang semua ranting hadir dalam kegiatan selapanan mwcnu kembang yang dilaksanakan di Masjid Al Hidayah Depoksari Kancilan, Jumat, 11/11/2022.
 
 Ketua Tanfidziyah K. Abdul Muiz mengucapkan terima kasih atas kepercayaan yang diberikan oleh MWCNU Kembang kepada Ranting Kancilan 1 untuk melaksanakan kegiatan tersebut, kebetulan acara tersebut di barengkan dengan kegiatan Idarohan RW 05,06,07,08 yang jatuh giliran RW 07.
 
 memang kegiatan selapanan dibarengkan dengan kegiaan idaohan karena memiliki tema yang sama yaitu "ngaos* agama yang sudah menjadi kegiatan rutin ranting Kancilan 01, dan ucapan terima kasih kepada seluruh warga dan banon NU Ranting Kancilan 01, terutama dalam kegiatan Khoul Massal dengan dana masuk sebesar Rp. 11.000.1000,00, .
 
-Petinggi Kancilan Yuswoto SH, juga mengapresiasi kepada masyarakan kancilan trutama warga NU yang mana setiap kegiatan Ke-NU-an mempunyai dampak yang positif bagi warga masyarakat, apalagi kaula muda selalu hadir dan mensuksesskan acara tersebut sebagai bentuk eksistensi kepada masyarakat.
+Petinggi Kancilan Yuswoto SH, juga mengapresiasi kepada masyarakan kancilan terutama warga NU yang mana setiap kegiatan Ke-NU-an mempunyai dampak yang positif bagi warga masyarakat, apalagi kaula muda selalu hadir dan mensuksesskan acara tersebut sebagai bentuk eksistensi kepada masyarakat.
 
 Kegiatan "Ngaos" memang perlu digiatkan karena Ngaos merupakan salah satu cara unuk mendapatkan pengetahuan atau ilmu, tidak hanya menjadi tradisi Ngaos ini adalah penyelamat jiwa, Imbuh dari MWCNU Kembang yang diwakili K. Mansur, S.Ag Slogannya "NU" Nuntun Umat.
 

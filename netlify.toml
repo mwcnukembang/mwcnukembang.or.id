@@ -11,6 +11,10 @@ HUGO_ENABLEGITINFO = "true"
 path = "/"
 function = "geoblock"
 
+[[edge_functions]]
+path = "/admin"
+function = "geoblock"
+
 [[redirects]]
   from = "/.well-known/*"
   to = "/well-known/:splat"

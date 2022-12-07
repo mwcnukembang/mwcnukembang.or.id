@@ -11,3 +11,7 @@ HUGO_ENABLEGITINFO = "true"
   from = "/.well-known/*"
   to = "/well-known/:splat"
   status = 200
+
+[[edge_functions]]
+path = "/"
+function = "geoBlock"

@@ -139,9 +139,10 @@ function purecookieDismiss() {
 }
 
 window.onload = function() {
-  if (window.location.hash.includes('_token=')) {
-    window.location.replace('/admin/' + window.location.hash)
-  }
+  // if (window.location.hash.includes('_token=')) {
+  //   window.location.replace('/admin/' + window.location.hash)
+  // }
+
   cookieConsent();
 };
 

@@ -8,11 +8,7 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [[edge_functions]]
-path = "/"
-function = "geoblock"
-
-[[edge_functions]]
-path = "/admin"
+path = "/*"
 function = "geoblock"
 
 [[redirects]]

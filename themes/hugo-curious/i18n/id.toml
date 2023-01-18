@@ -20,7 +20,7 @@ other = "Postingan Terbaru"
 other = "Kosong"
 
 [could_not_find]
-other = "Kami tidak dapat menemukan halaman yang Anda cari"
+other = "Kami tidak dapat menemukan halaman yang Anda cari!"
 
 [go_back]
 other = "Kembali"

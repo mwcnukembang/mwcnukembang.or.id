@@ -1,7 +1,7 @@
 ---
 title: "Tokoh"
-slug: "/about/"
-discussionId: "/about/"
+# slug: "/artikel/about/"
+# discussionId: "/artikel/about/"
 date: 2022-08-30
 ---
 

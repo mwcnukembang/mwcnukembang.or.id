@@ -1,7 +1,7 @@
 ---
 title: "SK Ranting"
-slug: "/sk_ranting/"
-discussionId: "/sk_ranting/"
+# slug: "/artikel/sk_ranting/"
+# discussionId: "/artikel/sk_ranting/"
 date: 2022-08-29
 toc: false
 ---

@@ -5,12 +5,12 @@
 
 [[main]]
   name = "SK Ranting"
-  url = "/sk_ranting/"
+  url = "/artikel/sk_ranting/"
   weight = 20
 
 [[main]]
   name = "Tokoh"
-  url = "/about/"
+  url = "/artikel/about/"
   weight = 30
 
 [[main]]
@@ -39,7 +39,7 @@
 
 [[main]]
   name = "Laspekdam"
-  url = "#"
+  url = "https://www.lakpesdam.or.id/"
   parent = "institution"
   weight = 40
 

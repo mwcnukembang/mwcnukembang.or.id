@@ -6,7 +6,7 @@ title = "MWC NU Kec. Kembang"
 author = "Riski Andriyanto"
 #canonifyurls = true
 paginate = 8
-PaginatePath = "/posts/"
+PaginatePath = "/artikel/"
 theme = "hugo-curious"
 
 DefaultContentLanguage = "id"
@@ -68,7 +68,7 @@ numberOfTagsShown = 8 # Applies for all other default & custom taxonomies. e.g c
 fallBackOgImage = "static/cover.jpg"
 
 # directory(s) where your articles are located
-mainSections = ["posts"] # see config details here https://gohugo.io/functions/where/#mainsections
+mainSections = ["artikel"] # see config details here https://gohugo.io/functions/where/#mainsections
 
 # center logo on navbar
 centerLogo = false # Set to "true" for centering or "false" for left aligned.

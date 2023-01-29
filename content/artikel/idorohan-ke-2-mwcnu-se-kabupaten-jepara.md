@@ -18,6 +18,6 @@ Dari RMI Kabupaten Jepara tugas pentingnya adalah bertanggung jawab untuk mendat
 
 Pekerjaan yang paling utama di RMI kecamatan adalah mendata dan memetakan madrasah madrasah diniyah di kecamatan dan melakukan tindakan kusus, bahkan apabila nantinya disuatu daerah tidak ada pendidikan diniyah maka yang pengurus NU lah yang mengadakan pendisikan diniyah. 
 
-Prof Mustaqim menambahkan permasalahan dibidang pendidikan adalah tanggung jawabnya permasalahan dibawah jadi untuk memecahkan peemasalahan dapat sisampaikan secara langsung melalui kontaknya agar bisa tertangani secara cepat. 
+Prof Mustaqim menambahkan permasalahan dibidang pendidikan adalah tanggung jawabnya  jadi untuk memecahkan permasalahan dapat disampaikan secara langsung melalui kontaknya agar bisa tertangani secara cepat. 
 
-Panitia pembangunan RSNU jepara Zainuri Toha mengatakan Deatline pelunasan ke Askowonu adalah Akhir bulan maret maka diharapkan masing masing MWC dapat meyelesaian sesuai rencana di programkan.
+Panitia pembangunan RSNU jepara Zainuri Toha mengatakan Deatline pelunasan ke Askowonu adalah Akhir bulan maret maka diharapkan masing masing MWCNU dapat meyelesaian sesuai rencana di programkan.

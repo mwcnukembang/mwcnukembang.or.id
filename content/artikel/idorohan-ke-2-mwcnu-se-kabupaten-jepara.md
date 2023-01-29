@@ -6,7 +6,7 @@ description: MWCNU Kembang, Kegiatan idarohan ke 2 MWCNU kembang sekabupaten
 thumbnail: /images/tutorial-membuat-background-di-coreldraw-yang-keren.jpg
 toc: false
 ---
-MWCNU Kembang, Kegiatan idarohan ke 2 MWCNU kembang sekabupaten jepara dilaksanakan di gedung mwcnu Pecangan pada Hari Ahad (28/01/2023).
+MWCNU Kembang, Kegiatan idarohan ke 2 MWCNU sekabupaten jepara dilaksanakan di gedung mwcnu Pecangan pada Hari Ahad (28/01/2023).
 
 Sambutan dari MWCNU kecamatan pecangaan yang diwakili oleh Rois Syuriah K. Sukri memaparkan ucapan terima kasih kepada seluruh mwcnu se kabupaten jepara digedung mwcnu kecamatan pecangaan, beliau juga menambahkan bahwa Gedung Mwcnu pecangaan adalah pusat kegiatan banom banom mwcnu pecangaan dan disekitar gedung mwc di kelilingi oleh TPQ, Musholla dan BMT Bintang 9 yang saat ini omsetnya 6 Milyar.
 

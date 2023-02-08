@@ -5,12 +5,12 @@
 
 [[main]]
   name = "SK Ranting"
-  url = "/artikel/sk_ranting/"
+  url = "/artikel/2022/08/sk-ranting/"
   weight = 20
 
 [[main]]
   name = "Tokoh"
-  url = "/artikel/about/"
+  url = "/artikel/2022/08/tokoh/"
   weight = 30
 
 [[main]]

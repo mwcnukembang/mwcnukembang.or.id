@@ -42,7 +42,7 @@ series = "series"
 
 [permalinks]
   page = "/:slug/"
-  posts = "/:year/:month/:slug/"
+  artikel = "/:section/:year/:month/:slug/"
   notes = "/:slug/"
 
 [params]

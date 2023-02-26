@@ -17,10 +17,9 @@ Kegiatan dihadiri seluruh MWCNU sekabupaten Jepara yang mana diawali dengan pemb
 
 Sambutan dari Ketua MWCNU Kota KH. Ainur Rofik, S.Pd. M. Pd. Ucapan selamat datang di MWCNU Kota dan ucapan terima kasih kepada seluruh mwcnu sekabupaten jepara yang telah menghadari kegiatan ini dan kami  mohon nantinya dikegiatan mwcnu tepat waktu sehingga acara berjalan lancar.
 
-Kh. Haris Rohman ketua PCNU Kabupaten Jepara dalam sambutan mengucapkan selamat kepada Rois Syuriah Nalumsari K. Nurkhan dan ketua Tanfidliyah Habib Sholeh Aljufri ini adalah kegiatan penutup sebelum Ramadhan  dan di Bulan Ramadhan kegiatan rutinan akan diliburkan adapun pelaksanaan rutinan akan dilaksanakan bulan syawal tepatnya pada tanggal 7 Mei 2023.
+Kh. Haris Rohman ketua PCNU Kabupaten Jepara dalam sambutan mengucapkan selamat kepada Rois Syuriah Nalumsari K. Nurkhan dan ketua Tanfidliyah Habib Sholeh Aljufri sebagai pengurus Baru MWCNU Nalusari.  ini adalah kegiatan penutup sebelum Ramadhan  dan di Bulan Ramadhan kegiatan rutinan akan diliburkan adapun pelaksanaan rutinan akan dilaksanakan bulan syawal tepatnya pada tanggal 7 Mei 2023.
 
-
-Dalam kegiatan Rutinan nantinya akan dibersamakan dengan pelantikan MWCNU Nalumsari, Halal Bi Halal dan Muaker PCNU Dengan Tema Ekonomi Kemandirian organisasi, selain itu pula PCNU Jepara mengadakan program Baru media semangat quran yang dinahkodai JQH. Pesan terpenting adalah menjadi pengurus harus bersifat Riyadhul Jannah.
+Dalam kegiatan Rutinan nantinya akan dibersamakan dengan pelantikan MWCNU Nalumsari, Halal Bi Halal dan Musker PCNU Dengan Tema Ekonomi Kemandirian organisasi, selain itu pula PCNU Jepara mengadakan program Baru media semangat quran yang dinahkodai JQH. Pesan terpenting adalah menjadi pengurus harus bersifat Riyadhul Jannah.
 
 PCNU Jepara dari Rumpun Agama menyapiakan sudah melalukan audiansi dengan PJ Bupati Jepara bahwa dibulan Ramadhan nantinya akan ada kajian kajian agama di Kantor kantor kecamatan termasuk kantor  Pajak, kegiatan ramadhan nantinya tidak hanya di tingkat kabupaten saja tetapi juga si tingkat Kecamatan.
 

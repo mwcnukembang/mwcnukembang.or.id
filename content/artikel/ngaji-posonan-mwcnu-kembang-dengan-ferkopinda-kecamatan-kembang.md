@@ -19,4 +19,6 @@ Agama ini mudah (tetapi jangan diremehkan), agama Islam selalu mengapresiasi pos
 
 Praktik keagamaan yang moderat memiliki indikator toleran, berimbang, tidak "kebanteren", menghargai budaya lokal, menerima perbedaan, dan lainnya.
 
+![](/images/whatsapp-image-2023-03-27-at-13.56.43.jpeg)
+
 N﻿gaji Posonan ini akan dilaKsanakan selama dua pekan yang disampaikan oleh Rois-rois suriyah MWCNu Kembang, diantanya (Kiai. Muh.Ridwan S.Ag, Dr.K.Abdull Wahab Saleeem, S.Sos.I.M.S.I, K. Abdul Rosyid,S.Pd.I dan K. Abdul Jalil,S.Pd.I)

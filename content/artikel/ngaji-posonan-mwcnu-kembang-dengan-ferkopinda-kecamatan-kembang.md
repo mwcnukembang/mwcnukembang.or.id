@@ -11,7 +11,7 @@ M﻿ajelis Wakil Cabang Nahdlatul Ulama Kecamatan Kembang Ngaji Posonan dengan F
 
 i﻿ni adalah hari kedua yang mana pada hari pertama diisi oleh Wakil Rois Suriyah MWCNU Kembang Kiai. Abdul Rosyid dengan kajian Kitab Tasawuf, 
 
-H﻿iHari kedua juga diisi Oleh Wakil Rois Syuriah MWCNU Kembang . Dr.K.Abdul Wahab Sallum, S.Sos.I.M.S.I dengan Kajian  Moderasi beragama  1, moderasi berarti memilih yang terbaik di antara dua pilihan lain yang cenderung "ekstrim".
+H﻿iHari kedua juga diisi Oleh Wakil Rois Syuriah MWCNU Kembang . Dr. K. Abdul Wahab Saleem, S.Sos.I. M.S.I dengan Kajian  Moderasi beragama  1, moderasi berarti memilih yang terbaik di antara dua pilihan lain yang cenderung "ekstrim".
 
 Landasan teologis moderasi adalah QS. Al-Baqarah, 143. Bahwa kita dijadikan oleh Allah sebagai "Ummatan Wasathan", kaum moderat, terpilih dan adil, begitu pemaknaan para mufassir. Dan tidak sedikit riwayat Baginda Nabi yang menjelaskan tentang pokok-pokok moderasi.
 
@@ -21,4 +21,4 @@ Praktik keagamaan yang moderat memiliki indikator toleran, berimbang, tidak "keb
 
 ![](/images/whatsapp-image-2023-03-27-at-13.56.43.jpeg)
 
-N﻿gaji Posonan ini akan dilaKsanakan selama dua pekan yang disampaikan oleh Rois-rois suriyah MWCNu Kembang, diantanya (Kiai. Muh.Ridwan S.Ag, Dr.K.Abdull Wahab Saleeem, S.Sos.I.M.S.I, K. Abdul Rosyid,S.Pd.I dan K. Abdul Jalil,S.Pd.I)
+N﻿gaji Posonan ini akan dilaKsanakan selama dua pekan yang disampaikan oleh Rois-rois suriyah MWCNu Kembang, diantanya (Kiai. Muh.Ridwan S.Ag, Dr. K. Abdull Wahab Saleem, S.Sos.I. M.S.I, K. Abdul Rosyid,S.Pd.I dan K. Abdul Jalil,S.Pd.I)

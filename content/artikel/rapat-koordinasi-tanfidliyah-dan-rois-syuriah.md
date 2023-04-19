@@ -7,6 +7,8 @@ description: P﻿engurus Ranting Nahdlatul Ulama Jinggotan 1 berkordinasi dengan
 thumbnail: /images/whatsapp-image-2023-04-19-at-11.30.59.jpeg
 toc: false
 ---
+![](/images/whatsapp-image-2023-04-19-at-11.30.59.jpeg)
+
 P﻿engurus Ranting Nahdlatul Ulama Jinggotan 1 berkordinasi dengan Rois Syuriah menjelang Hari Raya Idul Fitfri 1444 H di kediaman Rois Syuriah pada hari Rabu 20/4/2023.
 
 D﻿alam perbincangannya Tanfidliyah NU Jinggotan 1 yang didampingi oleh Ketua GP Ansor Jinggotan 1 membicarakan rencana Halal bi Halal yang akan dilaksanakan diseluruh tingkatan banom NU ranting Jinggotan 1, rois Syuriah memberikan kebebasan pelaksanaan tersebut kepada pengurus Tanfidliyah, pengurus Tanflidiyah dengan Ketua GP Ansor Jinggotan 1 sepakan pelaksanaan halal Bi Halal Jatuh pada tanggal 30 April 2023/Malam Senin yang di Tempatkan Di Aula An-Nahdlah.

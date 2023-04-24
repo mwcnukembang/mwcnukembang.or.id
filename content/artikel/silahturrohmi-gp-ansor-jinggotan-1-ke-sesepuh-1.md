@@ -9,7 +9,7 @@ description: Nukem, Pengurus Gerakan Pemuda AnSOR Ranting Jinggotan 1
 thumbnail: /images/d95ca42d-2e47-4fca-a423-7b3e5d9c4aca.jpg
 toc: false
 ---
-![](/images/d95ca42d-2e47-4fca-a423-7b3e5d9c4aca.jpg)
+![](/images/d95ca42d-2e47-4fca-a423-7b3e5d9c4aca.jpg "Foto Bersama Suriah. Dr.K. Abdul Wahab Sallem")
 
 Nukem, Pengurus Gerakan Pemuda AnSOR Ranting Jinggotan 1 bersilahturrohmi kesesepuh NU dan sesepuh lingkungan tidak ketinggalan bersilaturrohmi ke Petinggi Desa Jinggotan.
 Kegiatan ini dilaksanakan pada malam ke 4 setelah hari raya idul fitri 1444 H kerumah masing-masing tokoh yang dituakan dilingkungan. 

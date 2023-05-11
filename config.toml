@@ -125,7 +125,7 @@ disqusShortname = "admin"
 # mailChimpUrl = "https://vietanhdev.us13.list-manage.com/subscribe/post?u=c5f9d88238b4c0ec0106fe459&amp;id=e74e121dc8"
 
 # Google Adsense
-# adsenseDataAdClient = ""
+adsenseDataAdClient = "ca-pub-2932747436996973"
 
 # Cookie Consent
 showCookieConsent = true

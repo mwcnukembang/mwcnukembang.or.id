@@ -16,6 +16,8 @@ DefaultContentLanguage = "id"
 # [menus]
 # config/_default/menus/menu.xx.toml
 
+enableRobotsTXT = true
+
 [taxonomies]
 category = "categories"
 tag = "tags"

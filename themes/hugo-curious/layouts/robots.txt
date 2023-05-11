@@ -1,2 +1,7 @@
 User-agent: *
-Sitemap: https://www.mwcnukembang.or.id/index.xml
+
+Disallow: /tags/
+Disallow: /categories/
+Disallow: 404.html
+
+Sitemap: {{ "index.xml" | absLangURL }}

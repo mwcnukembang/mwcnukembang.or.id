@@ -58,6 +58,9 @@ codeLineNumbers = true
 # Google analytics Id
 ga_analytics = "G-S4PFSP8XTB"
 
+# Google tag manager Id
+ga_tag = "GTM-P8RH2TJ"
+
 # posthog analytics id
 posthog = "phc_9hE7OYv59xdLxhgfDtnPrsSQfk3pAoXy2ArehYZ9cv4"
 

@@ -131,8 +131,6 @@ adsenseDataAdClient = "ca-pub-2932747436996973"
 showCookieConsent = true
 privacyPolicyPage = "/privacypolicy"
 
-enableRobotsTXT = true
-
 [related]
   includeNewer = true
   threshold = 10

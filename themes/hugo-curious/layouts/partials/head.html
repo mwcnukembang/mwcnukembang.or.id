@@ -19,6 +19,7 @@
 {{- if (ne hugo.Environment "development") }}
   {{- partial "analytics" . }}
   {{- partial "posthog" . }}
+  {{- partial "adsense" .}}
 {{- end }}
 {{- partial "opengraph" . }}
 {{- partial "favicon" . }}

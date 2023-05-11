@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.mwcnukembang.or.id/index.xml

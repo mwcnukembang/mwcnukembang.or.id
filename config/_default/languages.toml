@@ -1,9 +1,8 @@
-
-[en]
-  title = "MWC NU Kec. Kembang"
-  LanguageName = "English"
-  weight = 1
 [id]
   title = "MWC NU Kec. Kembang"
   LanguageName = "Indonesia"
   weight = 1
+[en]
+  title = "MWC NU Kec. Kembang"
+  LanguageName = "English"
+  weight = 2

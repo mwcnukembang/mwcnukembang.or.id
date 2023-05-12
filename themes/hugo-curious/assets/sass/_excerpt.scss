@@ -6,7 +6,8 @@
 }
 
 .author-list-item {
-    color: #333;
+    // color: #333;
+    color: var(--postcard-text);
 }
 
 .author-list-item,
@@ -39,7 +40,7 @@
 }
 
 .post-card {
-    color: #555;
+    // color: #555;
     font-size: 1rem;
     -webkit-box-flex: 1;
     -ms-flex: 1 1 20rem;
@@ -51,7 +52,8 @@
     overflow: hidden;
     margin: 0 0.5rem 2rem;
     min-height: 20rem;
-    background: rgba(255, 255, 255, 0.6);
+    // background: rgba(255, 255, 255, 0.6);
+    background: var(--postcard-bg);
     background-size: cover;
     border-radius: 5px;
     -webkit-box-shadow: rgba(39, 44, 49, .06) 8px 14px 38px, rgba(39, 44, 49, .03) 1px 3px 8px;
@@ -141,7 +143,8 @@
 }
 
 .reading-time {
-    color: #738a94;
+    // color: #738a94;
+    color: var(--postcard-text);
     text-transform: uppercase;
 }
 
@@ -348,7 +351,8 @@ article .share {
 }
 
 .card-link {
-    color: #15171a;
+    // color: #15171a;
+    color: var(--postcard-linkcard);
 }
 
 a.footer-color:hover {
@@ -376,7 +380,8 @@ a.footer-color:hover {
 }
 
 .post-card-meta {
-    border-top: 2px solid rgba(240, 240, 240, 0.6);
+    // border-top: 2px solid rgba(240, 240, 240, 0.6);
+    border-top: 2px solid var(--postcard-border-footer-color);
     padding-top: 13px !important;
 }
 
@@ -405,11 +410,13 @@ a.footer-color:hover {
 
 .post-card-excerpt {
     max-width: 56em;
-    color: #555;
+    // color: #555;
+    color: var(--postcard-text);
 }
 
 .post-card {
-    border: 1px solid #ddd;
+    // border: 1px solid #ddd;
+    border: 1px solid var(--postcard-border-color);
 }
 
 .post-card:hover {

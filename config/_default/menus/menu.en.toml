@@ -37,6 +37,6 @@
   weight = 50
 
 [[main]]
-  name = "<img src=\"/icons/search.svg\" style=\"height:1.2rem; display: inline; margin: 0;\" alt=\"Pencarian\">"
+  name = "<img src=\"/icons/search.svg\" style=\"height:1.2rem; display: inline; margin: 0;\" alt=\"Search\">"
   url = "/search/"
   weight = 60

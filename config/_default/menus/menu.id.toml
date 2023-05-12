@@ -80,11 +80,11 @@
   weight = 50
 
 # [[main]]
-#   name = "<img src=\"/icons/mail.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
+#   name = "<img src=\"/icons/mail.svg\" style=\"height:1.2rem; display: inline; margin: 0;\" alt=\"Mail\">"
 #   url = "/contact/"
 #   weight = 50
 
 [[main]]
-  name = "<img src=\"/icons/search.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
+  name = "<img src=\"/icons/search.svg\" style=\"height:1.2rem; display: inline; margin: 0;\" alt=\"Pencarian\">"
   url = "/search/"
   weight = 60

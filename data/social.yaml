@@ -9,10 +9,13 @@
 #   url: "https://www.youtube.com/channel/UCLUmTiBrfQZi6WZE6kYmGmw"
 - item: "facebook"
   url: "https://www.facebook.com/profile.php?id=100016849695305"
+  name: "facebook"
 # - item: "instagram"
 # url: "https://instagram.com/#"
 - item: "whatsapp"
   url: "https://wa.me/6281335555369"
+  name: "whatsapp"
 - item: "rss"
   url: "index.xml"
+  name: "rss"
   internal:  true

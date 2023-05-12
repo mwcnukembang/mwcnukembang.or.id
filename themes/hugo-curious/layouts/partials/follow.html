@@ -2,10 +2,11 @@
 <div class='follow'>
   {{- range $items }}
   {{- $url := .url }}
+  {{- $name := .name }}
   {{- if .internal }}
     {{ $url = absLangURL .url }}
   {{- end }}
-  <a href="{{ $url }}">
+  <a href="{{ $url }}" aria-label="{{ $name }}">
     {{ partial "sprite" (dict "icon" .item) }}
   </a>
   {{- end }}

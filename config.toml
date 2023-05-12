@@ -112,6 +112,7 @@ numberOfFeaturedPosts = 8
 # talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
 
 # Disqus
+disqusEnable = true
 disqusServerUrl = "https://mwcnukembang-or-id.disqus.com/"
 disqusShortname = "admin"
 
@@ -130,7 +131,7 @@ disqusShortname = "admin"
 adsenseDataAdClient = "ca-pub-2932747436996973"
 
 # Cookie Consent
-showCookieConsent = true
+showCookieConsent = false
 privacyPolicyPage = "/privacypolicy"
 
 [related]

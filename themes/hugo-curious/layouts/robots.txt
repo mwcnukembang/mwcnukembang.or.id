@@ -4,5 +4,6 @@ Disallow: /tags/
 Disallow: /categories/
 Disallow: /404.html
 Disallow: /contact/
+Disallow: /archives/
 
 Sitemap: {{ "index.xml" | absLangURL }}

@@ -2,6 +2,7 @@
 title: "Tokoh"
 # slug: "/artikel/about/"
 # discussionId: "/artikel/about/"
+noComment: true
 date: 2022-08-30
 ---
 

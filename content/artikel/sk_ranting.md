@@ -3,7 +3,8 @@ title: "SK Ranting"
 # slug: "/artikel/sk_ranting/"
 # discussionId: "/artikel/sk_ranting/"
 date: 2022-08-29
-toc: false
+toc: true
+noComment: true
 ---
 ### SK MWC Kembang 2021-2026
 

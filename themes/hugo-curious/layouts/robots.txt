@@ -3,5 +3,6 @@ User-agent: *
 Disallow: /tags/
 Disallow: /categories/
 Disallow: /404.html
+Disallow: /contact/
 
 Sitemap: {{ "index.xml" | absLangURL }}

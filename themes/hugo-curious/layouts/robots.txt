@@ -5,5 +5,6 @@ Disallow: /categories/
 Disallow: /404.html
 Disallow: /contact/
 Disallow: /archives/
+Disallow: /en/
 
 Sitemap: {{ "index.xml" | absLangURL }}

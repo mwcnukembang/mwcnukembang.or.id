@@ -55,6 +55,8 @@ introDescription = "Pengurus Majlis Wakil Cabang Nahdlatul Ulama"
 description = "MWC NU Kecamatan Kembang - Pengurus Majlis Wakil Cabang Nahdlatul Ulama" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 searchTypes = ["artikel"]
 
+taxonomiesExcludedFromSitemap = ["tags", "categories","series","archive"]
+
 codeLineNumbers = true
 
 # Google analytics Id

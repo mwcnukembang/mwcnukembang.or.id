@@ -7,4 +7,4 @@ Disallow: /contact/
 Disallow: /archives/
 Disallow: /en/
 
-Sitemap: {{ "index.xml" | absLangURL }}
+Sitemap: {{ "id/sitemap.xml" | absLangURL }}

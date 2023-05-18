@@ -1,5 +1,6 @@
 ---
 card: "/formeonly/"
+sitemap_exclude: true
 date: 2020-10-10
 ---
 
@@ -24,7 +25,7 @@ Sách **Think Python: How to Think Like a Computer Scientist** - Allen B. Downey
 </pre>
 
 
-### Table 
+### Table
 
 - Generator: https://tableconvert.com/
 - Word table to markdown: https://tabletomarkdown.com/convert-spreadsheet-to-markdown/

@@ -1,6 +1,6 @@
 {{- $s := i18n "share_on" }}
 {{ $url := printf "%s" .Permalink }}
-<!-- {{ $body := print .Title ", by " .Site.Title "\n" .Params.description "\n\n" $url "\n" }} -->
+{{ $body := print "*" .Title "*\n\n" .Params.description "\n\n" $url }}
 <div class="post_share">
   {{ $s }}:
   <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}&tw_p=tweetbutton" class="twitter" title="{{ $s }} Twitter" target="_blank" rel="nofollow" aria-label="twitter">
@@ -9,7 +9,7 @@
   <a href="https://www.facebook.com/sharer.php?u={{ .Permalink }}&t={{ .Title }}" class="facebook" title="{{ $s }} Facebook" target="_blank" rel="nofollow" aria-label="facebook">
     {{ partial "sprite" (dict "icon" "facebook") }}
   </a>
-  <a href="https://wa.me/send?text={{ $url }}" class="whatsapp" title="{{ $s }} Whatsapp" target="_blank" rel="nofollow" aria-label="whatsapp">
+  <a href="https://wa.me/send?text={{ $body }}" class="whatsapp" title="{{ $s }} Whatsapp" target="_blank" rel="nofollow" aria-label="whatsapp">
     {{ partial "sprite" (dict "icon" "whatsapp") }}
   </a>
   <a href="#linkedinshare" id = "linkedinshare" class="linkedin" title="{{ $s }} LinkedIn" rel="nofollow" aria-label="linkedin">

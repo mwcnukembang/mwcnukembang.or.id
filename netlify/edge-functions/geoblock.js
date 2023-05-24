@@ -1,5 +1,5 @@
 export default async function geoBlock(req, { geo }) {
-  if (geo.country.code === 'ID' || geo.country.code === 'US') {
+  if (geo.country.code === 'ID' || geo.country.code === 'US' || geo.country.code === 'CA') {
     return;
   }
 

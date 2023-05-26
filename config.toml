@@ -52,7 +52,7 @@ author = "admin"
 twitter = "andrizan"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Pengurus Majlis Wakil Cabang Nahdlatul Ulama"
-description = "MWC NU Kecamatan Kembang - Pengurus Majlis Wakil Cabang Nahdlatul Ulama" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
+description = "MWC NU Kecamatan Kembang - Pengurus Majlis Wakil Cabang Nahdlatul Ulama. MWCNU Kembang Melalui Sekjen meluncurkan Web Resmi MWCNU Kembang, diharapkan dengan webset resmi ini bisa memberikan layan informasi kepada masyarakat secara cepat dan mudah baik berkaitan dengan kegiatan keagamaan di kecamatan kembang maupn tentang Batshul Masail." # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 searchTypes = ["artikel"]
 
 taxonomiesExcludedFromSitemap = ["tags", "categories","series","archive"]

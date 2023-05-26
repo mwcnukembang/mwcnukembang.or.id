@@ -63,10 +63,10 @@ codeLineNumbers = true
 ga_analytics = "G-S4PFSP8XTB"
 
 # Google tag manager Id
-ga_tagmanager = "GTM-P8RH2TJ"
+# ga_tagmanager = "GTM-P8RH2TJ"
 
 # posthog analytics id
-posthog = "phc_9hE7OYv59xdLxhgfDtnPrsSQfk3pAoXy2ArehYZ9cv4"
+# posthog = "phc_9hE7OYv59xdLxhgfDtnPrsSQfk3pAoXy2ArehYZ9cv4"
 
 # limit the number of taxonomies links shown on the sidebar of each page by default.
 numberOfTagsShown = 8 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
@@ -130,7 +130,7 @@ disqusShortname = "admin"
 # mailChimpUrl = "https://vietanhdev.us13.list-manage.com/subscribe/post?u=c5f9d88238b4c0ec0106fe459&amp;id=e74e121dc8"
 
 # Google Adsense
-adsenseDataAdClient = "ca-pub-2932747436996973"
+# adsenseDataAdClient = "ca-pub-2932747436996973"
 
 # Cookie Consent
 showCookieConsent = false

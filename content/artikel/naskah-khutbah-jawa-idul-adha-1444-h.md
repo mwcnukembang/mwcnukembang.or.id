@@ -1,5 +1,5 @@
 ---
-title: Naskah Khutbah Jawa Idul Adha 1444 H
+title: Naskah Khutbah Idul Adha 1444 H Bahasa Jawa Lengkap dan Singkat
 date: 2023-06-28T03:37:46.851Z
 description: Naskah Khutbah Jawa Idul Adha 1444 H
 thumbnail: /images/352581116_1032212644333020_6341308296289040450_n.jpg

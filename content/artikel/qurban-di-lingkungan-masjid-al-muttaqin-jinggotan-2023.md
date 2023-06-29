@@ -23,4 +23,4 @@ Setelah itu, Allah SWT pun menggantikan anak Nabi Ibrahim tersebut dengan sembel
 wa fadainahu bizib-hin azim\
 Artinya: Dan kami tebus anak itu dengan seekor sembelihan yang besar.
 
-D﻿ari Keterangan di atas Masyarakat melaksanakan kegiatan tersebut berbagai cara diantaranya dengan Rombongan atau Qurban berjamaah, di Lingkungan Masjid Al Muttaqqin sudah 6 Kali atau 6 Tahun melaksanakan kegiatan Qurban berjamah setiap Tahunnya berbeda jumlah hewan yang di qurbankan di Tahun 2023 Jumlah Hewan Yang di QWurbankan Sapi 3 dan Kambing 3 semoga di Tahun-Tahun Berikutnya dapat bertambah. Tegas  Panitia ***Nur Latief***
+D﻿ari Keterangan di atas Masyarakat melaksanakan kegiatan tersebut berbagai cara diantaranya dengan Rombongan atau Qurban berjamaah, di Lingkungan Masjid Al Muttaqqin sudah 6 Kali atau 6 Tahun melaksanakan kegiatan Qurban berjamah setiap Tahunnya berbeda jumlah hewan yang di qurbankan di Tahun 2023 Jumlah Hewan Yang di Qurbankan Sapi 3 dan Kambing 3 semoga di Tahun-Tahun Berikutnya dapat bertambah. Tegas  Panitia ***Nur Latief***

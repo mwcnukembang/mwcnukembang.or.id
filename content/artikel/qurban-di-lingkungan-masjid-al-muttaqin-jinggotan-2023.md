@@ -6,7 +6,7 @@ description: Allāhu akbar, Allāhu akbar, Allāhu akbar. Lā ilāha illallāhu
 thumbnail: /images/828087e7-8e7e-417d-ac4b-fb65289e7d66.jpg
 toc: false
 ---
-![](/images/828087e7-8e7e-417d-ac4b-fb65289e7d66.jpg "Prosesi Penyembelejhan Oleh K. Rifai")
+![Prosesi Penyembelejhan Oleh K. Rifai](/images/828087e7-8e7e-417d-ac4b-fb65289e7d66.jpg "Prosesi Penyembelejhan Oleh K. Rifai")
 
 **Allāhu akbar, Allāhu akbar, Allāhu akbar.** **Lā ilāha illallāhu wallāhu akbar.** **Allāhu akbar wa lillāhil hamdu,** 
 

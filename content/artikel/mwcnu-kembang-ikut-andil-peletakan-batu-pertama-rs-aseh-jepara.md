@@ -15,7 +15,7 @@ T﻿idak hanya MWCNU Kembang saja yang Hadir tetapi perwakilan dari Banom MWCNU 
 
 R﻿ois Suriah MWCNU Jepara mendapat tempat peletakan batu pertama di kotak 21, yang di dampingi oleh Ketua Tanfidliyah (K. Fauzan), Katib Suriah, Bendahara MWCNu dan Komandan Banser Jepara ( H Nur Rois), sebelum meletakkan batu pertama di doakan oleh Katib Suriah K. Abdul Jalil sebelum Meletakkan Batu Pertama.
 
-![Peletakan Batu Pertama MWCNU Kempang di Petak 21](/images/1d87c6c8-4453-48af-a112-601bdb23d33c.jpg)
+![Peletakan Batu Pertama MWCNU Kembang di Petak 21](/images/1d87c6c8-4453-48af-a112-601bdb23d33c.jpg)
 
 S﻿etelah meletakkan Batu Pertama kemudian dilanjutkan ikut andil dalam Donor Darah dan Pemeriksaan kesehatan gratis oleh Tim LKNU Kabupaten Jepara yang mana MWCNU kembang di dampingi oleh LKNU Kecamatan Kembang H. Nur Daim,S.Kep.
 

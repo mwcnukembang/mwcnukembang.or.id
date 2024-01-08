@@ -24,7 +24,6 @@ Website ini dibangun menggunakan template [hugo-curious](https://github.com/viet
 * Google Analytics (GA4)
 * Google Tag Manager
 * Google Adsense
-* Propeller Ads
 * Posthog
 
 ## License

@@ -132,6 +132,9 @@ disqusShortname = "admin"
 # Google Adsense
 # adsenseDataAdClient = "ca-pub-2932747436996973"
 
+# Propeller Ads
+propellerads = "470da65d67463bcbb862b18d149822ca"
+
 # Cookie Consent
 showCookieConsent = false
 privacyPolicyPage = "/privacypolicy"

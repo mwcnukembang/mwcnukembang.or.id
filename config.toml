@@ -134,6 +134,7 @@ disqusShortname = "admin"
 
 # Propeller Ads
 propellerads = "470da65d67463bcbb862b18d149822ca"
+propelleradsZone = "32983"
 
 # Cookie Consent
 showCookieConsent = false

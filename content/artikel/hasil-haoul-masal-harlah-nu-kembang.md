@@ -10,7 +10,7 @@ description: "Nahdatul Ulama atau yang disingkat dengan NU menurut penanggalan
 thumbnail: /images/th.jpeg
 toc: false
 ---
-Nahdatul Ulama atau yang disingkat dengan NU menurut penanggalan Hijriah pada tahun 2023 berusia 100 tahun atau satu abad. Organisasi ini berdiri pada tanggal 16 Rajab 1344 H atau bertepatan dengan 31 Januari 1926 M . Pengurus Cabang Nahdlatul Ulama Jepara mengadakan kegiatan khoul Masal bersama SE kabupaten Jepara secara serentak yang mana Folmulirnya di sediakan oleh PCNU jepara 1 formulir 20.000/ perarwah 2.000. rincian pendapatannya atau pembagiannya 20% operasional Ranting (MU.Muslimat,Fatayat., 5,% untuk operasional MWCNU dan 75% untuk dana RS NU Anugrah sehat. 
+Nahdatul Ulama atau yang disingkat dengan NU menurut penanggalan Hijriah pada tahun 2023 berusia 100 tahun atau satu abad. Organisasi ini berdiri pada tanggal 16 Rajab 1344 H atau bertepatan dengan 31 Januari 1926 M . Pengurus Cabang Nahdlatul Ulama Jepara mengadakan kegiatan khoul Masal bersama SE kabupaten Jepara secara serentak yang mana Folmulirnya di sediakan oleh PCNU jepara 1 formulir 20.000/ perarwah 2.000. rincian pendapatannya atau pembagiannya 20% operasional Ranting (NU.Muslimat,Fatayat., 5,% untuk operasional MWCNU dan 75% untuk dana RS NU Anugrah sehat. 
 
 Teknik penyebaran atau pelaksanaan di ranting adalah di panitiani pengurus ranting, dan setiap ranting mendapat jatah kupon 300-500 tergantung  luas wilayah ranting . Penyetoran dana penarikan dari. Ranting adalah tanggal 9 Januari 2024 ke Panitia MWCNU. 
 
@@ -23,7 +23,7 @@ Berjalannya waktu maka khoul masal pemperoleh Hasil:
 * PR. BALONG  : 4.160.000
 * PR. CEPOGO :  4.000.000
 * PR. TUBANAN 1 : 2.600..000
-*  PR. KANZILAN 1 :  2.185.000
+* PR. KANZILAN 1 :  2.185.000
 * PR PENDEM  : 10.000.000
 * PR. KALIAMAN : 1.500.000
 * PR. SUMANDING.1.: 1.500.000
@@ -31,9 +31,5 @@ Berjalannya waktu maka khoul masal pemperoleh Hasil:
 * Jinggotan 1 : 2.000.000
 
   Dengan rincian tersebut semoga membawa manfaat, MWCNU akan menindak lanjuti hasil pengumpulan tersebut kepada PCNU sesegera mungkin, karena ini adalah amanah dari warga nahdliyin yang melalui khoul masal untuk Pembangunan RS ANUGRAH SEHAT
-
-
-
-
 
 setelah berjalanya waktu maka memper oleh Hasil, '

@@ -20,19 +20,14 @@ Dari Peristiwa peristiwa itu PCNU Jepara bersama dengan Banomnya mengadakan kegi
 
 Intruksi tersebut dari PCNU Jepara di tindak Lanjuti oleh Ketua MWCNU Kembang Kiai. Ahmad Hauzan dan menginstruksikan kepada Laziznu Kembang saudara Endri Susanto untuk mengkordinir donasi tersebut.
 
-Ketua Laziznu Langsung bergerak ke Semua Rantingyabg berada di kecamatan Kembang, dengan hasil sementara.  masukan DFana dari Ranting. \
+Ketua Laziznu Langsung bergerak ke Semua Rantingyabg berada di kecamatan Kembang, dengan hasil sementara.  masukan Dana dari Ranting. 
+
 1. Pendem 1.500.000 
-
-2.  Dermolo 1.500.000
-
-3.  Tubanan 2. 1.030.000
-
+2. Dermolo 1.500.000
+3. Tubanan 2. 1.030.000
 4. Ansor sumanding 2. 10 dus mie instan + pakaian
-
 5. 5 kancilan 1 : 1.100.000
-
 6. Tubanan 1: 1.050.000 
-
 7. Cepogo :4.500.000
 
 Diharapkan nantinya ranting yang lain dapat segera memberikan donasinya.

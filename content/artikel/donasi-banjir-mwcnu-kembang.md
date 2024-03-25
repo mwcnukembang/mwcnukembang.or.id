@@ -18,7 +18,7 @@ Kota Jepara merupakan bagian Kota/kabupaten yang berada di Indonesia sudah tentu
 
 Dari Peristiwa peristiwa itu PCNU Jepara bersama dengan Banomnya mengadakan kegiatan Peduli Banjir di Jepara yang mana di harapkan dari MWCNU Se Kabupaten Jepara untuk menginstruksikan agar lembaga dibawahnya untuk bersama-sama menggalang dana maupun bahan pokok makanan atau sejenisnya, pakian dan sejenisnya untuk di berikan kepada korban banjir di Jepara.
 
-Intruksi tersebut dari PCNU Jepara di tindak Lanjuti oleh Ketua MWCNU Kembang Kiai. Ahmad Hauzan dan menginstruksikan kepada Laziznu Kembang saudara Endri Susanto untuk mengkordinir donasi tersebut.
+Intruksi tersebut dari PCNU Jepara di tindak Lanjuti oleh Ketua MWCNU Kembang Kiai. Ahmad Fauzan dan menginstruksikan kepada Laziznu Kembang saudara Endri Susanto untuk mengkordinir donasi tersebut.
 
 Ketua Laziznu Langsung bergerak ke Semua Rantingyabg berada di kecamatan Kembang, dengan hasil sementara.  masukan Dana dari Ranting. 
 
